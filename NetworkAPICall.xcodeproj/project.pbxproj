@@ -99,6 +99,8 @@
 		CBF7ECBD2A900E060076279F /* NetworkAPICall */ = {
 			isa = PBXGroup;
 			children = (
+				CBF7ECF12A9017E80076279F /* Models */,
+				CBF7ECEE2A90158F0076279F /* Network */,
 				CBF7ECBE2A900E060076279F /* AppDelegate.swift */,
 				CBF7ECC02A900E060076279F /* SceneDelegate.swift */,
 				CBF7ECC22A900E060076279F /* ViewController.swift */,
@@ -125,6 +127,20 @@
 				CBF7ECE12A900E080076279F /* NetworkAPICallUITestsLaunchTests.swift */,
 			);
 			path = NetworkAPICallUITests;
+			sourceTree = "<group>";
+		};
+		CBF7ECEE2A90158F0076279F /* Network */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		CBF7ECF12A9017E80076279F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
